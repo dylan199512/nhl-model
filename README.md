@@ -23,3 +23,6 @@ An NHL standings tracker and what-if playoff simulator built with Python, COBOL,
 ## Setup & Usage
 Requires Python 3, GnuCOBOL (cobc), and gfortran.
 
+Bash
+make run
+
