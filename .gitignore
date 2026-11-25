@@ -1,0 +1,13 @@
+Secrets.plist
+Secrets.plist
+
+# Ignore Secrets.plist to keep API keys safe
+Secrets.plist
+
+# Ignore build and derived data files
+build/
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+# Ignore Xcode's derived data folder
+DerivedData/
